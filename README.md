@@ -8,7 +8,10 @@ other pre-requisites:
 scapy.all  --   sudo apt-get install python3-scapy
 
 
-usage: #NetworkScanner.py -t &lt;ip/iprange>  
+usage:
+
+go to the NetworkScanner directory 
+root#python3 NetworkScanner.py -t <ip/iprange>  
 e.g NetworkScanner.py -t 10.0.0.1/24
 
 
