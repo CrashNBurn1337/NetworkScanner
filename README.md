@@ -5,7 +5,8 @@ This is a basic Network Scanner written in python.It scans the devices in the lo
 Problems - sometimes you have to search for more than once to get perfect results.   
 
 other pre-requisites:
-scapy.all  --   sudo apt-get install python3-scapy
+scapy.all 
+cmd > sudo apt-get install python3-scapy
 
 
 usage:
